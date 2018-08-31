@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.7cdd4832c9ca7a33ae6eea102fbfd1ad.js"
+  "precache-manifest.ddd0584f17d0cea557cb90e73c9b54ec.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "OctaChat-Dashboard"});
